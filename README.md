@@ -37,7 +37,7 @@ streamlit run app.py
 
 A aplicação será aberta no navegador em http://localhost:8501.
 
-🧪 Lógica de decisão aplicada
+## 🧪 Lógica de decisão aplicada
 
 As regras são baseadas em condições comuns a motores de risco de crédito, como:
 
@@ -51,11 +51,11 @@ As regras são baseadas em condições comuns a motores de risco de crédito, co
 
 Essas regras são aplicadas sobre um dataset real de crédito (German Credit Data) e podem ser facilmente adaptadas para outros critérios.
 
-🌐 Deploy Online
+## 🌐 Deploy Online
 Acesse a versão web interativa:
 
 🔗 [https://seuusuario.streamlit.app](https://motordecreditov1.streamlit.app/)
 
 
-📄 Licença
+## 📄 Licença
 Este projeto está disponível para fins de estudo e demonstração. Sinta-se livre para clonar, adaptar ou contribuir.
