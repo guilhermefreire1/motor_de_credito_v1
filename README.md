@@ -26,21 +26,19 @@ Este projeto simula um **motor de decisão de crédito**, como os utilizados em 
 
 git clone https://github.com/guilhermefreire1/motor_de_credito_v1.git
 cd motor_de_credito_v1
+
 Instale as dependências:
 
-bash
-Copiar
-Editar
 pip install -r requirements.txt
+
 Execute a aplicação:
 
-bash
-Copiar
-Editar
 streamlit run app.py
+
 A aplicação será aberta no navegador em http://localhost:8501.
 
 🧪 Lógica de decisão aplicada
+
 As regras são baseadas em condições comuns a motores de risco de crédito, como:
 
 ❌ Valor solicitado alto + ausência de poupança → Negado
@@ -55,15 +53,9 @@ Essas regras são aplicadas sobre um dataset real de crédito (German Credit Dat
 
 🌐 Deploy Online
 Acesse a versão web interativa:
+
 🔗 https://seuusuario.streamlit.app
 
-(Substitua pelo link gerado no Streamlit Cloud)
-
-👨‍💻 Autor
-Guilherme Freire
-Estudante de Sistemas de Informação | Profissional de Dados e Automação | Desenvolvedor Python
-🔗 LinkedIn
-🐙 GitHub
 
 📄 Licença
 Este projeto está disponível para fins de estudo e demonstração. Sinta-se livre para clonar, adaptar ou contribuir.
