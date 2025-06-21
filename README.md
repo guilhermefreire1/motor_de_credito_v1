@@ -19,30 +19,6 @@ Este projeto simula um **motor de decisão de crédito**, como os utilizados em 
 - Streamlit
 - Pandas
 
----
-
-## 📂 Estrutura do projeto
-
-motor_de_credito_v1/
-├── app.py # Aplicação Streamlit
-├── main.py # Execução via terminal
-├── requirements.txt # Dependências do projeto
-├── README.md # Documentação
-├── data/
-│ └── german_credit_data.csv
-├── outputs/
-│ └── resultado_credito.csv
-├── src/
-│ ├── init.py
-│ ├── avaliador.py # Aplica as regras ao dataset
-│ ├── regras.py # Regras de negócio para aprovação
-│ └── tratamento.py # Limpeza e preparação dos dados
-
-yaml
-Copiar
-Editar
-
----
 
 ## ▶️ Como rodar localmente
 
