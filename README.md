@@ -54,7 +54,7 @@ Essas regras são aplicadas sobre um dataset real de crédito (German Credit Dat
 🌐 Deploy Online
 Acesse a versão web interativa:
 
-🔗 https://seuusuario.streamlit.app
+🔗 [https://seuusuario.streamlit.app](https://motordecreditov1.streamlit.app/)
 
 
 📄 Licença
